@@ -1,5 +1,6 @@
 # KobeGPT
-> The most important thing is to try and inspire people so that they can be great in whatever they want to do.
+> "The most important thing is to try and inspire people so that they can be great in whatever they want to do."
+>
 > \- Kobe Bryant
 
 ![kobe wallpaper](https://github.com/chonguschonguschongus/kobegpt/blob/main/kobe%20bryant%20wallpaper.jpg))
