@@ -1,7 +1,8 @@
 # KobeGPT
 > The most important thing is to try and inspire people so that they can be great in whatever they want to do.
-> - Kobe Bryant
-![kobe wallpaper](kobe bryant wallpaper.jpeg)
+> \- Kobe Bryant
+
+![kobe wallpaper](https://github.com/chonguschonguschongus/kobegpt/blob/main/kobe%20bryant%20wallpaper.jpg))
 ## Table of Contents
 - [KobeGPT](#kobegpt)
   - [Table of Contents](#table-of-contents)
@@ -66,7 +67,9 @@ Open terminal and run `streamlit run kobegpt.py`
 
 ### Interacting with KobeGPT
 The Black Mamba wastes no time getting into the grind, start chatting with him and he will jump right into the first lessons!
-![kobegpt example](kobegpt intro example.png)
+
+![kobegpt example](https://github.com/chonguschonguschongus/kobegpt/blob/main/kobegpt%20intro%20example.png))
+
 KobeGPT retains memory of anything you chat with him about, feel free to clarify doubts and ask questions regarding Python. Dont stray too far off topic though! He may not answer you if it is irrelevant. Mamaba Mentality says never to get distracted!
 
 ## Acknowledgements 
