@@ -49,7 +49,7 @@ if "messages" not in st.session_state:
   st.session_state.messages = [{"role": "system", "content": our_system_prompt},
                                {
                                  "role": "assistant", 
-                                 "avatar": "kobeicon.jpeg", 
+                                 "avatar": "resources/images/kobeicon.jpeg", 
                                  "content": "Hey Rookie! Ready to learn Python with the Mamba Let's get started."
                                   }]
 
